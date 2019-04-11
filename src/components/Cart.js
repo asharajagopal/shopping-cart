@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import Title from './Title';
-import CartColumns from  './CartColumns';
-import CartList from './CartList';
+// import Title from './Title';
+// import CartColumns from  './CartColumns';
+// import CartList from './CartList';
 import {ProductConsumer} from '../Context' ;
 export class Cart extends Component {
   render() {
